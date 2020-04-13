@@ -10,7 +10,7 @@ English | [简体中文](./README-zh.md)
 
 ```bash
 # clone the project
-https://github.com/super-maoMao/app-front.git
+https://github.com/super-maoMao/app-mobile.git
 
 # enter the project directory
 cd carManagement
