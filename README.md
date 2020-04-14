@@ -1,4 +1,4 @@
-# carManagement
+# AwesomeProject
 
 English | [简体中文](./README-zh.md)
 
@@ -13,7 +13,7 @@ English | [简体中文](./README-zh.md)
 https://github.com/super-maoMao/app-mobile.git
 
 # enter the project directory
-cd carManagement
+cd AwesomeProject
 
 # install dependency
 npm install
